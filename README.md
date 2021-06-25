@@ -1,10 +1,14 @@
 ### Hi there 👋
-## Rafhael de Andrade Barabas
+<p>
+I'm Rafhael, a Software Developer and Systems Analyst, enthusiast in clean architecture based in microsservices, clean code and design patterns.
+</p>
+
 <a href="https://github.com/rafhaelbarabas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafhaelbarabas&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafhaelbarabas&layout=compact&langs_count=8&theme=solarized-dark"/>
-  </a>
-  # Main Skills
+</a>  
+<br>
+<p>Main skills</p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Spring" height="30" width="40" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
@@ -20,9 +24,7 @@
   <img align="center" alt="AngularJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg">
 </div>
 <br>
-<p>
-Software Developer and Systems analyst, enthusiast in clean architecture based in microsservices, clean code and design patterns.
-</p>
+
 
 You can reach me using the following badges
 
