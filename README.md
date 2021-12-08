@@ -5,7 +5,7 @@ I'm Rafhael, a Software Developer and Systems Analyst, enthusiast in clean archi
 
 <a href="https://github.com/rafhaelbarabas">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafhaelbarabas&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafhaelbarabas&layout=compact&langs_count=8&theme=solarized-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafhaelbarabas&layout=compact&langs_count=8&theme=solarized-dark&hide=html,css"/>
 </a>  
 <br>
 <p>Main skills</p>
