@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-I'm Rafhael, a Software Developer and Systems Analyst, enthusiast in clean architecture based in microsservices, clean code and design patterns.
+I'm Rafhael, a Software Engineer, enthusiast in clean architecture based in microsservices, clean code and design patterns.
 </p>
 
 <a href="https://github.com/rafhaelbarabas">
