@@ -18,7 +18,6 @@ fs.readFile("README_base.md", "utf-8", (err, data) => {
   const replaceVars = {
     age: getAge(),
     company: "TOVTVS SA", // TODO: Automatizar com a LinkeIn API
-    companyPage: "https://www.totvs.com/"
   };
 
   const updatedReadMe = data.replace(

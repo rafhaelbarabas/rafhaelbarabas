@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <p>
-  My name is Rafhael, i'm `%{age}` years old, and graduated in "Systems Analysis and Development" at <a href="http://virtual.unesc.net/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">UNESC</a>, and doing a specialization in "Cross-plataform Application Development" at <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/" target="_blank">Descomplica (Online School)</a>. 
+  My name is Rafhael, i'm %{age} years old, and graduated in "Systems Analysis and Development" at <a href="http://virtual.unesc.net/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">UNESC</a>, and doing a specialization in "Cross-plataform Application Development" at <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/" target="_blank">Descomplica (Online School)</a>. 
 </p>
 <p>
-  I'm currently work as a Back-end Engineer in <a href="`%{companyPage}`" target="_blank">`%{company}`</a> on architeture squad, responsable for maintening systems architecture and security, planning new features and analysis risks. Working with monolithic and microsservices applications, using clean code, clean architecture and some design patterns. 
+  I'm currently work as a Back-end Engineer at %{company} on architeture squad, responsable for maintening systems architecture and security, planning new features and analysis risks. Working with monolithic and microsservices applications, using clean code, clean architecture and some design patterns. 
 </p>
  
 <div style="display: inline_block">  
