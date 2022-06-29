@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { default: axios } = require("axios");
 
 const getAge = () => {
   const birthDate = new Date(1994, 0, 28);
@@ -10,25 +11,34 @@ const getAge = () => {
     : --age;
 };
 
-fs.readFile("README_base.md", "utf-8", (err, data) => {
-  if (err) {
-    throw err;
-  }
+// TODO: Automatizar com a LinkeIn API
+const getActualCompany = () => {
+  return "TOVTVS SA";
+};
 
-  const replaceVars = {
-    age: getAge(),
-    company: "TOVTVS SA", // TODO: Automatizar com a LinkeIn API
-  };
-
-  const updatedReadMe = data.replace(
-    /%{.*}/gm,
-    (e) => replaceVars?.[e.slice(2, -1)] || e
-  );
-
-  fs.writeFile("README.md", updatedReadMe, "utf-8", (err) => {
+const updateReadme = () => {
+  fs.readFile("README_base.md", "utf-8", (err, data) => {
     if (err) {
       throw err;
     }
-    console.log("✔ Finished!");
+
+    const replaceVars = {
+      age: getAge(),
+      company: getActualCompany(),
+    };
+
+    const updatedReadMe = data.replace(
+      /%{.*}/gm,
+      (e) => replaceVars?.[e.slice(2, -1)] || e
+    );
+
+    fs.writeFile("README.md", updatedReadMe, "utf-8", (err) => {
+      if (err) {
+        throw err;
+      }
+      console.log("✔ Finished!");
+    });
   });
-});
+};
+
+updateReadme();
