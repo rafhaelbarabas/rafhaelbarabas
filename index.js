@@ -13,7 +13,7 @@ const getAge = () => {
 
 // TODO: Automatizar com a LinkeIn API
 const getActualCompany = () => {
-  return "TOVTVS SA";
+  return "TOTVS";
 };
 
 const updateReadme = () => {
