@@ -1,13 +1,14 @@
 # Nome do processo
 name: Update automático
 
-on:
+on:      
   schedule:    
     # - cron: '0 0 28 1 *'
     # Uma vez por ano, sempre no dia 28 de janeiro
     # crontab.guru.
     # nesse caso aqui, ele irá rodar a cada 1 minuto.
     - cron: '*/1 * * * *'
+  workflow_dispatch: 
 
 # Aqui vem os passos que a ação segue
 jobs:
