@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { default: axios } = require("axios");
 
 const getAge = () => {
   const birthDate = new Date(1994, 0, 28);
