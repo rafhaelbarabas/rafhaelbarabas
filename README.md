@@ -1,4 +1,19 @@
-### Hi there 👋
+### NOTICE
+<img height="280" width="280" background-color="white" src="./assets/outoforder.svg" />
+
+What's up everybody!
+<p>
+Soo, I decided to start my brand new portifolio here on Gitub, then in the next days I'll change all my currently repositories visibility to private, and start a new project to only publish repositories coded by myself, and all my projects will be documented with images and examples.
+</p>
+<p>
+I intent to create fullstack projects from scratch, from back-end up to front-end even mobile in some cases. Also can have only back-end projects be like: studies case, design patterns, microservices, algorithms and etc.
+</p>
+
+<p>
+I'm really excited for this new project, stay close to see what comes forward. See you soon, bye!
+</p>
+
+### Introducing me, Hi there. 👋
 
 <p>
   My name is Rafhael, i'm 28 years old, i have Technologist degree in "Systems Analysis and Development" at <a href="http://virtual.unesc.net/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">UNESC</a>, and a post graduate in progress in "Cross-plataform Applications Development" at <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/" target="_blank">Descomplica (Online School)</a>. 
