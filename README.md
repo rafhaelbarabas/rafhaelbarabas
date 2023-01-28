@@ -16,7 +16,7 @@ I'm really excited for this new project, stay close to see what comes forward. S
 ### Introducing me, Hi there. 👋
 
 <p>
-  My name is Rafhael, i'm 28 years old, i have Technologist degree in "Systems Analysis and Development" at <a href="http://virtual.unesc.net/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">UNESC</a>, and a post graduate in progress in "Cross-plataform Applications Development" at <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/" target="_blank">Descomplica (Online School)</a>. 
+  My name is Rafhael, i'm 29 years old, and graduated in "Systems Analysis and Development" at <a href="http://virtual.unesc.net/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">UNESC</a>, and doing a specialization in "Cross-plataform Applications Development" at <a href="https://descomplica.com.br/pos-graduacao/tecnologia/pos-em-projetos-de-aplicativos-moveis-multiplataforma/" target="_blank">Descomplica (Online School)</a>. 
 </p>
 <p>
   I'm currently work as a Back-end Engineer at TOTVS on architeture squad, responsable for maintening systems architecture and security, planning new features and analysis risks. Working with monolithic and microsservices applications, using clean code, clean architecture and some design patterns. 
