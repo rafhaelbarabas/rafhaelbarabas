@@ -12,7 +12,7 @@ const getAge = () => {
 
 // TODO: Automatizar com a LinkeIn API
 const getActualCompany = () => {
-  return "TOTVS";
+  return "Dell Technologies";
 };
 
 const updateReadme = () => {
@@ -23,7 +23,7 @@ const updateReadme = () => {
 
     const replaceVars = {
       age: getAge(),
-      company: getActualCompany(),
+      // company: getActualCompany(),
     };
 
     const updatedReadMe = data.replace(
