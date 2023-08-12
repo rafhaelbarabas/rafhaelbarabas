@@ -4,7 +4,7 @@
   My name is Rafhael, i'm %{age} years old, and graduated in "Systems Analysis and Development" at <a href="http://virtual.unesc.net/graduacao/analise-e-desenvolvimento-de-sistemas" target="_blank">UNESC</a>. 
 </p>
 <p>
-  I'm currently work as a Software Enginner at Dell Technologies, developing a new experience for worldwide developers at https://developer.dell.com 
+  I'm currently work as a Software Engineer at Dell Technologies, developing a new experience for worldwide developers at https://developer.dell.com 
 </p>
  
 <div style="display: inline_block">  
@@ -27,12 +27,12 @@
   ### Databases                     
   <img alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />          
   <img alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">  
-  <img alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">  
+  <img alt="MongoDB" title="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img alt="Oracle" title="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   
   ### Devops
   <img alt="Linux env" title="Linux env" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />        
   <img alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">           
-  <img alt="Oracle" title="Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img alt="Google Cloud" title="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />       
 </div>
 
